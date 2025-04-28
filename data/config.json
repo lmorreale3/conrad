@@ -3,7 +3,7 @@
   "documentName": "Transcription of Conrad of Saxony",
   "iiifManifest": "/conrad/ConradWFacsimilie/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "EmendedPlaintext": "Emended Plaintext"
   },
   "viewerUrl": "/conrad"
 }
