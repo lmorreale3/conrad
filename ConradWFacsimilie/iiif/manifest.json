@@ -1,0 +1,2539 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650314",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4399,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650314",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000"
+						}
+					]
+				}
+			],
+			"height": 4399,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 1)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f000.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f000.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f000"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650315",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4364,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650315",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001"
+						}
+					]
+				}
+			],
+			"height": 4364,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 2)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f001"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650316",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4393,
+								"width": 4061,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650316",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002"
+						}
+					]
+				}
+			],
+			"height": 4393,
+			"width": 4061,
+			"label": {
+				"none": [
+					"(seq. 3)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f002.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f002.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f002"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650317",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4376,
+								"width": 4073,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650317",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003"
+						}
+					]
+				}
+			],
+			"height": 4376,
+			"width": 4073,
+			"label": {
+				"none": [
+					"(seq. 4)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f003.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f003.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f003"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650318",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4370,
+								"width": 4061,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650318",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004"
+						}
+					]
+				}
+			],
+			"height": 4370,
+			"width": 4061,
+			"label": {
+				"none": [
+					"(seq. 5)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f004.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f004.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f004"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650319",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4388,
+								"width": 4073,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650319",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005"
+						}
+					]
+				}
+			],
+			"height": 4388,
+			"width": 4073,
+			"label": {
+				"none": [
+					"(seq. 6)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f005.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f005.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f005"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650320",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4358,
+								"width": 4049,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650320",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006"
+						}
+					]
+				}
+			],
+			"height": 4358,
+			"width": 4049,
+			"label": {
+				"none": [
+					"(seq. 7)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f006.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f006.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f006"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650321",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4376,
+								"width": 4067,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650321",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007"
+						}
+					]
+				}
+			],
+			"height": 4376,
+			"width": 4067,
+			"label": {
+				"none": [
+					"(seq. 8)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f007.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f007.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f007"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650322",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4376,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650322",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008"
+						}
+					]
+				}
+			],
+			"height": 4376,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 9)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f008.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f008.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f008"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650323",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4412,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650323",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009"
+						}
+					]
+				}
+			],
+			"height": 4412,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 10)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f009.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f009.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f009"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650324",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4375,
+								"width": 4050,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650324",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010"
+						}
+					]
+				}
+			],
+			"height": 4375,
+			"width": 4050,
+			"label": {
+				"none": [
+					"(seq. 11)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f010.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f010.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f010"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650325",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4376,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650325",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011"
+						}
+					]
+				}
+			],
+			"height": 4376,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 12)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f011.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f011.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f011"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650326",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4399,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650326",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012"
+						}
+					]
+				}
+			],
+			"height": 4399,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 13)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f012.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f012.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f012"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650327",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4346,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650327",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013"
+						}
+					]
+				}
+			],
+			"height": 4346,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 14)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f013.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f013.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f013"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650328",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4387,
+								"width": 4052,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650328",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014"
+						}
+					]
+				}
+			],
+			"height": 4387,
+			"width": 4052,
+			"label": {
+				"none": [
+					"(seq. 15)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f014.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f014.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f014"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650329",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4352,
+								"width": 4067,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650329",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015"
+						}
+					]
+				}
+			],
+			"height": 4352,
+			"width": 4067,
+			"label": {
+				"none": [
+					"(seq. 16)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f015.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f015.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f015"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650330",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4380,
+								"width": 4080,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650330",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016"
+						}
+					]
+				}
+			],
+			"height": 4380,
+			"width": 4080,
+			"label": {
+				"none": [
+					"(seq. 17)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f016.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f016.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f016"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650331",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4346,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650331",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017"
+						}
+					]
+				}
+			],
+			"height": 4346,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 18)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f017.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f017.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f017"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650332",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4370,
+								"width": 4073,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650332",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018"
+						}
+					]
+				}
+			],
+			"height": 4370,
+			"width": 4073,
+			"label": {
+				"none": [
+					"(seq. 19)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f018.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f018.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f018"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650333",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4405,
+								"width": 4043,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650333",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019"
+						}
+					]
+				}
+			],
+			"height": 4405,
+			"width": 4043,
+			"label": {
+				"none": [
+					"(seq. 20)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f019.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f019.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f019"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650334",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4382,
+								"width": 4061,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650334",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020"
+						}
+					]
+				}
+			],
+			"height": 4382,
+			"width": 4061,
+			"label": {
+				"none": [
+					"(seq. 21)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f020.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f020.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f020"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650335",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4388,
+								"width": 4013,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650335",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021"
+						}
+					]
+				}
+			],
+			"height": 4388,
+			"width": 4013,
+			"label": {
+				"none": [
+					"(seq. 22)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f021.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f021.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f021"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650336",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4406,
+								"width": 4037,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650336",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022"
+						}
+					]
+				}
+			],
+			"height": 4406,
+			"width": 4037,
+			"label": {
+				"none": [
+					"(seq. 23)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f022.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f022.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f022"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650337",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4406,
+								"width": 4037,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650337",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023"
+						}
+					]
+				}
+			],
+			"height": 4406,
+			"width": 4037,
+			"label": {
+				"none": [
+					"(seq. 24)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f023.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f023.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f023"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650338",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4376,
+								"width": 4055,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650338",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024"
+						}
+					]
+				}
+			],
+			"height": 4376,
+			"width": 4055,
+			"label": {
+				"none": [
+					"(seq. 25)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f024.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f024.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f024"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650339",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4375,
+								"width": 4080,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650339",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025"
+						}
+					]
+				}
+			],
+			"height": 4375,
+			"width": 4080,
+			"label": {
+				"none": [
+					"(seq. 26)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f025.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f025.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f025"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650340",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4430,
+								"width": 4061,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650340",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026"
+						}
+					]
+				}
+			],
+			"height": 4430,
+			"width": 4061,
+			"label": {
+				"none": [
+					"(seq. 27)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f026.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f026.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f026"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650341",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4370,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650341",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027"
+						}
+					]
+				}
+			],
+			"height": 4370,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 28)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f027.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f027.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f027"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650342",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4394,
+								"width": 4067,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650342",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028"
+						}
+					]
+				}
+			],
+			"height": 4394,
+			"width": 4067,
+			"label": {
+				"none": [
+					"(seq. 29)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f028.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f028.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f028"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650343",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4358,
+								"width": 4073,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650343",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029"
+						}
+					]
+				}
+			],
+			"height": 4358,
+			"width": 4073,
+			"label": {
+				"none": [
+					"(seq. 30)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f029.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f029.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f029"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650344",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4412,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650344",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030"
+						}
+					]
+				}
+			],
+			"height": 4412,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 31)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f030.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f030.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f030"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650345",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4382,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650345",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031"
+						}
+					]
+				}
+			],
+			"height": 4382,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 32)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f031.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f031.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f031"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650346",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4418,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650346",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032"
+						}
+					]
+				}
+			],
+			"height": 4418,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 33)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f032.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f032.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f032"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://ids.lib.harvard.edu/ids/iiif/6650347",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 4364,
+								"width": 4079,
+								"service": [
+									{
+										"id": "https://ids.lib.harvard.edu/ids/iiif/6650347",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033"
+						}
+					]
+				}
+			],
+			"height": 4364,
+			"width": 4079,
+			"label": {
+				"none": [
+					"(seq. 34)"
+				]
+			},
+			"annotations": [
+				{
+					"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/tei/EmendedPlaintext/f033.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/html/EmendedPlaintext/f033.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://lmorreale3.github.io/conrad//ConradWFacsimilie/iiif/canvas/f033"
+						}
+					]
+				}
+			]
+		}
+	],
+	"label": {
+		"en": [
+			"ConradWFacsimilie"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}
