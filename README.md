@@ -55,4 +55,4 @@ Then, upgrade the EditionCrafter CLI using this command:
 
 ## Credits
 
-Developed by the [Making and Knowing Project](https://www.makingandknowing.org/) at the Center for Science and Society at Columbia University and [Performant Software Solutions LLC](https://www.performantsoftware.com). Funded by Grant SES-2218218 from the National Science Foundation.
+Developed by the [Making and Knowing Project](https://www.makingandknowing.org/) at the Center for Science and Society at Columbia University and [Performant Software Solutions LLC](https://www.performantsoftware.com). Funded by Grant SES-2218218 from the National Science Foundation. test.
